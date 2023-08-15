@@ -1,0 +1,48 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop",
+    "category": "Electronics",
+    "price": 999.99,
+    "description": "High-performance laptop with the latest technology.",
+    "available": true,
+    "image": "https://via.placeholder.com/150?text=Laptop",
+    "variants": [],
+    "variantPrice": null
+  },
+  {
+    "id": 2,
+    "name": "Smartphone",
+    "category": "Electronics",
+    "price": 599.99,
+    "description": "Advanced smartphone with a stunning display and camera.",
+    "available": true,
+    "image": "https://via.placeholder.com/150?text=Smartphone",
+    "variants": [
+      {
+        "id": 100,
+        "name": "6GB RAM",
+        "price": 200,
+        "available": true
+      },
+      {
+        "id": 200,
+        "name": "8GB RAM",
+        "price": 100,
+        "available": true
+      }
+    ],
+    "variantPrice": null
+  },
+  {
+    "id": 3,
+    "name": "Running Shoes",
+    "category": "Sports",
+    "price": 89.99,
+    "description": "Comfortable running shoes designed for athletes.",
+    "available": true,
+    "image": "https://via.placeholder.com/150?text=Running+Shoes",
+    "variants": [],
+    "variantPrice": null
+  }
+]

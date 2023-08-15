@@ -1,0 +1,17 @@
+[
+  {
+    "product_id": 1,
+    "quantity": 2,
+    "limit_per_purchase": 2
+  },
+  {
+    "product_id": 2,
+    "quantity": 4,
+    "limit_per_purchase": 1
+  },
+  {
+    "product_id": 3,
+    "quantity": 5,
+    "limit_per_purchase": 3
+  }
+]
